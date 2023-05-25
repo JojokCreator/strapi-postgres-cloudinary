@@ -31,6 +31,9 @@
     },
     "slug": {
       "type": "string"
+    },
+    "desc": {
+      "type": "string"
     }
   }
 }
